@@ -17,7 +17,9 @@ Este repositório contém um projeto de análise e modelagem de dados imobiliár
 - Clone este repositório em seu ambiente local.
 - Instale as dependências necessárias executando o comando: pip install -r requirements.txt.
 
-Certifique-se de seguir as instruções do presente README para garantir a instalação e execução adequada do projeto. <br>
-Versões testadas do Python: 3.11.1 e 3.11.8 <br>
-Testado utilizando o Visual Studio Code via extensão Jupyter
+Certifique-se de seguir as instruções do presente README para garantir a instalação e execução adequada do projeto. <br><br>
+Ambientes testados:
+- Python: 3.11.1 e 3.11.8
+- Visual Studio Code via extensão Jupyter
+
 
