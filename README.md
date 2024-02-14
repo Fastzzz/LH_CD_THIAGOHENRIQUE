@@ -13,11 +13,11 @@ Este repositório contém um projeto de análise e modelagem de dados imobiliár
 - O arquivo "4questao.png" contém a imagem da 4 questão do desafio com os requisitos do imóvel a ser listado.
 
 ### Instalação e Execução do Projeto:
-- Certifique-se de ter o Python instalado em sua máquina.
+- Certifique-se de que o Python está instalado em sua máquina, assim como um ambiente capaz de executar o Jupyter Notebook, como o Visual Studio Code, por exemplo.
 - Clone este repositório em seu ambiente local.
 - Instale as dependências necessárias executando o comando: pip install -r requirements.txt.
 
-Certifique-se de seguir as instruções do presente README para garantir a instalação e execução adequada do projeto. <br><br>
+Siga as instruções do README para garantir a instalação e execução adequada do projeto. <br><br>
 Ambientes testados:
 - Python: 3.11.1 e 3.11.8
 - Visual Studio Code via extensão Jupyter
